@@ -55,8 +55,8 @@ $controller->sendRequest(
 
 1. `url`: The destination URL for the request.
 2. `method`: The HTTP method (GET, POST, PUT, DELETE, PATCH).
-3. `payload`: Data sent in the request (optional).
-4. `headers`: Additional headers for the request (optional).
+3. `payload` (optional): Data sent in the request.
+4. `headers` (optional): Additional headers for the request.
 5. Output: The response received from the server after sending the request.
 
 ## Notes
