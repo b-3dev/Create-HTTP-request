@@ -6,5 +6,3 @@ class ResponseView {
         echo "<pre>$response</pre>";
     }
 }
-
-?>

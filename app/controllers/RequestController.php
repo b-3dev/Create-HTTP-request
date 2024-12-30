@@ -12,5 +12,3 @@ class RequestController {
         new ResponseView($response);
     }
 }
-
-?>

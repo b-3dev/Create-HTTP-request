@@ -59,5 +59,3 @@ class RequestModel {
         return $response;
     }
 }
-
-?>
