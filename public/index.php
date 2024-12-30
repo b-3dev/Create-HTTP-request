@@ -13,5 +13,3 @@ $controller->sendRequest(
         "Accept: application/json"
     ]
 );
-
-?>
